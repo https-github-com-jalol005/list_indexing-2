@@ -7,4 +7,8 @@
     Returns:
         list: return answer
 */
-void main() {}
+void main() {
+    List x1 = [1,2,3,4];
+    List x2 = [2,3,4];
+    print(x1+x2);
+}
